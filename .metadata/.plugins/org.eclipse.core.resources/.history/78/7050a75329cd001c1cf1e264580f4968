@@ -12,6 +12,5 @@ public class MyConsumer implements Consumer<String> {
 public void accept(String s) {
 	System.out.println("hii"+s);
 	System.out.println("saqnath");
-	System.out.println("karam");
 }
 }
